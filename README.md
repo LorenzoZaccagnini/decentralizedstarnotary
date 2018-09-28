@@ -1,10 +1,12 @@
 ## Decentralized Star Notary Project
-## Transaction, contract hashes are in hashes_document.md
+### Transaction, contract hashes are in hashes_document.md
 
 
 This project is part of Blockchain developer nanodegree program from Udacity.
 I have built a decentralized star notary service using
 technologies like Ethereum, smart contracts, web3.js etc. in this project.
+
+Try the live demo [here](https://blockchainstarsnotary.netlify.com/)
 
 ### Rinkeby test network details
 
@@ -42,7 +44,7 @@ https://rinkeby.etherscan.io/tx/0x5304cfdcd4b2d9b749ee34c7626dd8ed98f24321756010
 4. Create/Login into your metamask account.
 5. In metamask switch to `Rinkeby Test Network`.
 6. Have some test ethers loaded into your account. You can do it from [here](https://www.rinkeby.io/#faucet)
-7. Play with live demo [here](https://blockchainstarsnotary.netlify.com/)
+7. Try the live demo [here](https://blockchainstarsnotary.netlify.com/)
 
 ## Running the project locally
 1. Clone/Download this repository.
