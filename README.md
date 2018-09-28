@@ -34,7 +34,7 @@ https://rinkeby.etherscan.io/tx/0x5304cfdcd4b2d9b749ee34c7626dd8ed98f24321756010
 ## Prerequisites/Dependencies
 
 1. Install Node.js. [Check here](https://nodejs.org/en/download/)
-2. Once you have node, then install truffle and parcel bulnder as global dependencies.
+2. Once you have node, then install truffle and parcel bundler as global dependencies.
     by running this command from the terminal
     ```
         npm install -g truffle
